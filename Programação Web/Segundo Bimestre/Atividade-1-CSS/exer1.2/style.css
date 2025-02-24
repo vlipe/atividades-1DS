@@ -1,0 +1,23 @@
+body {
+   background-color: gray;
+}
+
+.margem_geral{
+   margin-top: 20px;
+   margin-right: 20px;
+}
+
+.amarelo{
+   background-color: #FFFF99;
+}
+
+.azul{
+   background-color: #66CCFF;
+   margin-left: 40%;
+}
+
+.verde{
+   background-color: #99FF66;
+   margin-left: 60%;
+
+}

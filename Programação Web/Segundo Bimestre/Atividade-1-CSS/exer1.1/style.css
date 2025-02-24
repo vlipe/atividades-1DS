@@ -1,0 +1,14 @@
+.amarelo{
+   background-color: #FFFF99;
+   display: inline-block;/* Torna o parágrafo um elemento de bloco em linha */
+}
+
+.azul{
+   background-color: #66CCFF;
+   display: inline-block; /* Torna o parágrafo um elemento de bloco em linha */
+}
+
+.verde{
+   background-color: #99FF66;
+   display: inline-block; /* Torna o parágrafo um elemento de bloco em linha */
+}
