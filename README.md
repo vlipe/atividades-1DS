@@ -24,16 +24,16 @@ ___
 
 ***Frameworks:***
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-021dfe?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0086ff?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ***Ferramentas:***
 
-![Git](https://img.shields.io/badge/Git-0086ff?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-021dfe?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-![Figma](https://img.shields.io/badge/figma-%230086ff.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-021dfe.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-0086ff.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) &nbsp;
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-021dfe?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-021dfe?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0086ff?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+![Figma](https://img.shields.io/badge/figma-%23021dfe.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0086ff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-021dfe.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) &nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-0086ff?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 <br>
 <br>
