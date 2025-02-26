@@ -15,7 +15,7 @@ ___
 
 <br>
 
-***Linguagens***
+***Linguagens:***
 
 ![HTML](https://img.shields.io/badge/HTML-021dfe?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-0086ff?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
