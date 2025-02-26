@@ -38,7 +38,7 @@ ___
 <br>
 <br>
 
-Caso você queira corrigir erros que há acidentalmente em minhas atividades, sinta-se à vontade para sugerir melhorias ou corrigir erros no código. Crie um fork deste repositório, então, as alterações desejadas e envie um pull request!
+Caso você queira, sinta-se à vontade para sugerir melhorias ou corrigir erros em códigos, que há acidentalmente em minhas atividades. Crie um fork deste repositório, então, as alterações desejadas e envie um pull request!
 
 <div align="center">
 <img height="60"> <img src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9XenVvenFYNTVoN1c2Skw0RGJoYy5wbmcifQ:supercell:_hV2sGF0a-2yomZrXp6BPSfyUO5D8bDXWiFFOil5nAk?width=2400" width="150">
