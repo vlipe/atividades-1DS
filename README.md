@@ -1,8 +1,8 @@
-### Atividades do Curso de Análise e Desenvolvimento de Sistemas - ETEC da Zona Leste
+### Atividades do Primeiro Ano do Curso de Análise e Desenvolvimento de Sistemas - ETEC da Zona Leste
 
 ___
 
-O repositório contém todas as atividades realizadas durante o curso de Análise e Desenvolvimento de Sistemas da ETEC da Zona Leste. Aqui, você encontrará códigos, mini-projetos e exercícios desenvolvidos ao longo das aulas de diferentes módulos, incluindo lógica de programação, projetos de design, front-end (back-end não incluso em nenhuma das atividades).
+O repositório contém todas as atividades realizadas durante o primeiro ano do curso de Análise e Desenvolvimento de Sistemas da ETEC da Zona Leste. Aqui, você encontrará códigos, mini-projetos e exercícios desenvolvidos ao longo das aulas de diferentes módulos, incluindo lógica de programação, projetos de design, front-end (back-end não incluso em nenhuma das atividades).
 
 
 > Este repositório serve como um portfólio das atividades do curso e também como uma referência para revisão de conceitos. Criei com o objetivo de demonstrar meu progresso e compreensão das ferramentas e metodologias ensinadas ao longo do curso, ou seja, onde registro cada tarefa realizada.
@@ -33,7 +33,7 @@ ___
 ![Figma](https://img.shields.io/badge/figma-%230086ff.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-021dfe.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-0086ff.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) &nbsp;
-![Linux](https://img.shields.io/badge/Linux-021dfe?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-021dfe?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 <br>
 <br>
